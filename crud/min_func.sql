@@ -1,0 +1,1 @@
+select min(confirmed) as lowest_confirmed_cases from covid_data ;

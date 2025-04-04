@@ -1,0 +1,1 @@
+select * from covid_data limit 20 offset 100;
