@@ -1,1 +1,0 @@
-select * from covid_data order by confirmed desc limit 10;

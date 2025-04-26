@@ -1,1 +1,0 @@
-select * from covid_data where who_region in ('Europe','Western Pacific');

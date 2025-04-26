@@ -1,1 +1,0 @@
-select distinct who_region from covid_data;

@@ -1,1 +1,0 @@
-select country_region,confirmed from covid_data where who_region = 'Europe';

@@ -1,1 +1,0 @@
-select sum(deaths) from covid_data;

@@ -1,1 +1,0 @@
-select * from covid_data where new_cases between 0 and 100 order by new_cases desc;
